@@ -1,0 +1,6 @@
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\bin\Debug\TestWindowsService.exe.config
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\bin\Debug\TestWindowsService.exe
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\bin\Debug\TestWindowsService.pdb
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\obj\x86\Debug\TestWindowsService.exe
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WindowsService1\obj\x86\Debug\TestWindowsService.pdb

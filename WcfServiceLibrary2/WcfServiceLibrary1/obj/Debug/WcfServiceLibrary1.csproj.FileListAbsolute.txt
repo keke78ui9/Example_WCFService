@@ -1,0 +1,6 @@
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

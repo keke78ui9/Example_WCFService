@@ -1,0 +1,7 @@
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\bin\MvcApplication1.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\bin\MvcApplication1.pdb
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\bin\EntityFramework.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\bin\EntityFramework.xml
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\MvcApplication1\obj\Debug\MvcApplication1.pdb

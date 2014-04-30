@@ -1,0 +1,8 @@
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\ADev\Dropbox\SampleApps__I_Created\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
